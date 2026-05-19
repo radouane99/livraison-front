@@ -1,4 +1,5 @@
 @echo off
+setlocal
 title QuickEat - Push Frontend React vers GitHub
 color 0A
 mode con: cols=90 lines=30
